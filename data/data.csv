@@ -1,0 +1,52 @@
+id,state,abbr,medianIncome,bingePercentage
+1,Alabama,AL,22327,12
+2,Alaska,AK,31557,20.2
+3,Arizona,AZ,26070,14.9
+4,Arkansas,AR,22179,13.3
+5,California,CA,26997,15.6
+6,Colorado,CO,30801,17.5
+7,Connecticut,CT,33027,15.9
+8,Delaware,DE,30173,15.7
+9,District of Columbia,DC,40094,24.9
+10,Florida,FL,24405,15
+11,Georgia,GA,25371,14.2
+12,Hawaii,HI,31072,19.7
+13,Idaho,ID,23448,14.8
+14,Illinois,IL,29006,20.2
+15,Indiana,IN,25800,14.8
+16,Iowa,IA,28060,21.4
+17,Kansas,KS,27139,15.8
+18,Kentucky,KY,22657,12.7
+19,Louisiana,LA,24022,16
+20,Maine,ME,25294,17
+21,Maryland,MD,35342,15.4
+22,Massachusetts,MA,31763,17.4
+23,Michigan,MI,25360,18.9
+24,Minnesota,MN,31035,19.5
+25,Mississippi,MS,21458,12.8
+26,Missouri,MO,25251,15.1
+27,Montana,MT,24232,18.9
+28,Nebraska,NE,27289,20.3
+29,Nevada,NV,26900,16
+30,New Hampshire,NH,31326,16.8
+31,New Jersey,NJ,32683,15.8
+32,New Mexico,NM,22588,13.7
+33,New York,NY,29429,15
+34,North Carolina,NC,24914,13.6
+35,North Dakota,ND,30609,24
+36,Ohio,OH,25936,18.1
+37,Oklahoma,OK,25302,12.9
+38,Oregon,OR,25244,16.6
+39,Pennsylvania,PA,26954,16.7
+40,Rhode Island,RI,27375,18.4
+41,South Carolina,SC,23454,14.1
+42,South Dakota,SD,26916,17.4
+43,Tennessee,TN,23189,10.6
+44,Texas,TX,26287,16.3
+45,Utah,UT,25983,11.4
+46,Vermont,VT,26799,17.9
+47,Virginia,VA,31147,15.2
+48,Washington,WA,30376,17.1
+49,West Virginia,WV,22247,9.6
+50,Wisconsin,WI,27434,22.1
+51,Wyoming,WY,29681,17.2
